@@ -331,7 +331,7 @@ function App() {
             </div>
             <div className="relative h-[400px]">
               <img
-                src="https://images.unsplash.com/photo-1544601284-28e67fe4c6d5?auto=format&fit=crop&q=80"
+                src="/spices.jpg  "
                 alt="Traditional spices"
                 className="absolute inset-0 w-full h-full object-cover rounded-lg shadow-xl"
               />
@@ -428,8 +428,7 @@ const menuItems = [
     description:
       "A generous assortment of our finest kebabs, including lamb, chicken, and beef varieties.",
     price: "34.99",
-    image:
-      "https://images.unsplash.com/photo-1544601284-28e67fe4c6d5?auto=format&fit=crop&q=80",
+    image: "/platter.jpg",
   },
 ];
 
